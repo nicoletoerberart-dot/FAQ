@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>FAQs | Nicole Toerber Art</title>
+  <link href="https://fonts.googleapis.com/css2?family=Lora:wght@400;700&display=swap" rel="stylesheet">
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: 'Lora', serif;
+      background-color: #D7D4C7;
+      color: #333;
+    }
+
+    .faq-wrapper {
+      max-width: 900px;
+      margin: 0 auto;
+      padding: 40px 20px;
+    }
+
+    .faq-title {
+      font-size: 18px;
+      font-weight: bold;
+      text-align: center;
+      margin-bottom: 30px;
+    }
+
+    details {
+      background-color: #f6f4eb;
+      border-bottom: 1px solid #aaa;
+      padding: 10px 0;
+      margin-bottom: 10px;
+    }
+
+    summary {
+      font-size: 14px;
+      font-weight: bold;
+      cursor: pointer;
+      list-style: none;
+    }
+
+    details[open] summary::after {
+      content: "▲";
+      float: right;
+      font-size: 12px;
+    }
+
+    summary::after {
+      content: "▼";
+      float: right;
+      font-size: 12px;
+    }
+
+    .faq-content {
+      font-size: 12px;
+      font-weight: normal;
+      padding: 10px 0 0 0;
+    }
+  </style>
+</head>
+<body>
+  <div class="faq-wrapper">
+    <div class="faq-title">--- Frequently Asked Questions ---</div>
+
+    <details>
+      <summary>Do you offer custom colors or scale?</summary>
+      <div class="faq-content">
+        Yes! I’m happy to customize both color and scale to suit your space. Simple color changes and resizing to any of the standard repeat widths (24", 12", 8", or 6") are available at no additional cost.<br><br>
+        If you're looking for something more complex—like a custom repeat size or additional design modifications—I’d love to collaborate. Just send me a message so we can discuss your vision and determine if additional design time or a fee may apply.
+      </div>
+    </details>
+
+    <details>
+      <summary>What types of wallpaper do you offer?</summary>
+      <div class="faq-content">
+        Spoonflower currently offers Peel & Stick, Pre-pasted, Traditional (Non-pasted), Vinyl, and Grasscloth wallpaper—each with its own benefits. All wallpapers are printed to order using eco-friendly methods and high-quality materials.
+      </div>
+    </details>
+
+    <details>
+      <summary>Can I order your design on something other than wallpaper?</summary>
+      <div class="faq-content">
+        Yes!!! While these designs are available on 6 different wallpaper bases, they are also available on 30 different types of fabric and a variety of made-to-order home decor items—all printed in the United States.
+      </div>
+    </details>
+
+    <details>
+      <summary>Can I order a sample before purchasing full rolls of wallpaper?</summary>
+      <div class="faq-content">
+        Absolutely—and I strongly recommend it! Ordering a swatch is the best way to ensure the color, scale, texture, and wallpaper type are exactly what you’re expecting. It also gives you the chance to test adhesion on your specific surface before committing.
+      </div>
+    </details>
+
+    <details>
+      <summary>Do you ship internationally?</summary>
+      <div class="faq-content">
+        Orders placed via Spoonflower are printed in the United States and shipped worldwide.
+      </div>
+    </details>
+
+    <details>
+      <summary>How much wallpaper do I need?</summary>
+      <div class="faq-content">
+        Measuring your space is easy - Here’s how to get it right:<br>
+        - Measure the height and width of each wall in feet or inches<br>
+        - Include doors and windows in your total width<br>
+        - Exclude trim like crown molding or baseboards<br>
+        - For walls with varied heights, use the tallest height to ensure design alignment<br>
+        - All wallpaper rolls are 24 inches wide, regardless of type<br>
+        Just message me if you have any questions or problems!
+      </div>
+    </details>
+
+    <details>
+      <summary>Will your wallpaper work on textured walls?</summary>
+      <div class="faq-content">
+        For the best results, wallpaper should be applied to smooth, clean, and primed surfaces.<br>
+        - <strong>Smooth walls:</strong> All wallpaper types are suitable.<br>
+        - <strong>Orange Peel, Knockdown, or Popcorn walls:</strong> Only Non-pasted or Vinyl wallpaper is recommended.<br><br>
+        Even with primer, slightly textured walls may prevent full adhesion for Peel & Stick, Pre-pasted, and Grasscloth. When in doubt, test with a swatch first.
+      </div>
+    </details>
+
+    <details>
+      <summary>How do I apply the wallpaper?</summary>
+      <div class="faq-content">
+        Each wallpaper type installs a bit differently:<br>
+        - <strong>Peel & Stick –</strong> Just peel off the backing and press to the wall.<br>
+        - <strong>Pre-pasted –</strong> Activate with water before hanging.<br>
+        - <strong>Traditional (Non-pasted) –</strong> Requires wallpaper paste.<br>
+        - <strong>Vinyl –</strong> Paste-the-wall and ideal for high-traffic or humid areas.<br>
+        - <strong>Grasscloth –</strong> Recommended for professional installation.
+      </div>
+    </details>
+  </div>
+</body>
+</html>
